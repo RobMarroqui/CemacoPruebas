@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PruebasCemaco", "PruebasCemaco.ssmssqlproj", "{109419E4-59A3-41A8-88CE-4CC11E00F320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EDCB34-F295-4F9E-A6CC-00226EDD8A2E}.Default|Default.ActiveCfg = Default
+		{109419E4-59A3-41A8-88CE-4CC11E00F320}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A47FEF-CBA0-4321-BFB5-BCB2DD8232C8}
+	EndGlobalSection
+EndGlobal
